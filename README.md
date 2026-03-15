@@ -89,6 +89,13 @@ Strong backend foundation in **Django, ASP.NET Core, and FastAPI**, complemented
 
 </div>
 
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rasheed240&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 <div align="center">
