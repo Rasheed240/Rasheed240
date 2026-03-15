@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hey, I'm Rasheed 👋
+# Adebayo Rasheed Babatunde
 
-**Full-Stack Developer** · C# · React · Python · JS · PostgreSQL
+**Software Engineer** · 5+ years · Backend-first Full-Stack
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rasheed--devfolio.netlify.app-blueviolet?style=flat-square&logo=netlify)](https://rasheed-devfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-rasheedbabatunde76%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rasheedbabatunde76@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rasheed240-181717?style=flat-square&logo=github)](https://github.com/Rasheed240)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rasheed240&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Rasheed240)
 
 </div>
@@ -12,40 +15,67 @@
 
 ### About Me
 
-- Building production-grade apps with **Clean Architecture** and **CQRS**
-- Full-stack across **.NET 9 backends** and **React 19 frontends**
-- Passionate about scalable systems, clean code, and real-world problem solving
+Software Engineer with **5+ years** architecting and delivering scalable, production-grade web systems across **e-commerce, HR-tech, EdTech, and healthcare** domains.
+
+Strong backend foundation in **Django, ASP.NET Core, and FastAPI**, complemented by solid frontend engineering in **React and HTMX**. Experienced in distributed systems, async processing, background job orchestration, API security, CDN/streaming optimization, and cloud-native deployments.
 
 ---
 
 ### Tech Stack
 
-**Backend**
+**Languages & Frameworks**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-CQRS-blueviolet?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-grey?style=flat-square)
-![Serilog](https://img.shields.io/badge/Serilog-grey?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logo=htmx&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Cloud & Tools**
+**Databases**
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-grey?style=flat-square)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Architecture**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-grey?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-grey?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-grey?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-grey?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-grey?style=flat-square)
+
+---
+
+### Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **Harmonics Technology** | Software Engineer | Apr 2023 – Present |
+| **Ecoreme** | Backend Engineer | Jun 2024 – Jan 2026 |
+| **Pedestal Africa Limited** | Software Engineer | Jan 2023 – Nov 2024 |
+| **Freelance** | Full-Stack & AI-Focused | Jul 2021 – Present |
 
 ---
 
@@ -66,7 +96,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rasheed240&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rasheed240&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -74,6 +104,6 @@
 
 <div align="center">
 
-*Building things that matter.*
+*Architecting systems that scale. Solving problems that matter.*
 
 </div>
