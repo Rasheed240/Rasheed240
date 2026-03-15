@@ -68,17 +68,6 @@ Strong backend foundation in **Django, ASP.NET Core, and FastAPI**, complemented
 
 ---
 
-### Experience
-
-| Company | Role | Period |
-|---|---|---|
-| **Harmonics Technology** | Software Engineer | Apr 2023 – Present |
-| **Ecoreme** | Backend Engineer | Jun 2024 – Jan 2026 |
-| **Pedestal Africa Limited** | Software Engineer | Jan 2023 – Nov 2024 |
-| **Freelance** | Full-Stack & AI-Focused | Jul 2021 – Present |
-
----
-
 ### GitHub Stats
 
 <div align="center">
