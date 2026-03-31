@@ -2,7 +2,7 @@
 
 # Adebayo Rasheed Babatunde
 
-**Software Engineer** · 5+ years · Backend-first Full-Stack
+**Software Engineer** · 4+ years · Backend-first Full-Stack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rasheed--devfolio.netlify.app-blueviolet?style=flat-square&logo=netlify)](https://rasheed-devfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-rasheedbabatunde76%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rasheedbabatunde76@gmail.com)
@@ -15,7 +15,7 @@
 
 ### About Me
 
-Software Engineer with **5+ years** architecting and delivering scalable, production-grade web systems across **e-commerce, HR-tech, EdTech, and healthcare** domains.
+Software Engineer with **4+ years** architecting and delivering scalable, production-grade web systems across **e-commerce, HR-tech, EdTech, and healthcare** domains.
 
 Strong backend foundation in **Django, ASP.NET Core, and FastAPI**, complemented by solid frontend engineering in **React and HTMX**. Experienced in distributed systems, async processing, background job orchestration, API security, CDN/streaming optimization, and cloud-native deployments.
 
