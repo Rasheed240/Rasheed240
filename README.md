@@ -91,13 +91,6 @@ Strong backend foundation in **Django, ASP.NET Core, and FastAPI**, complemented
 
 </div>
 
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasheed240&show_icons=true&theme=radical" />
-</p>
-
-</div>
 
 <div align="center">
 
